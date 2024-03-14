@@ -1,4 +1,4 @@
-(https://github.com/kaynan45)
+
 <h1 align="center">Hi 👋, I'm Kaynan</h1>
 <h3 align="center">A passionate developer from Brazil, chasing to work on Europe</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
@@ -24,5 +24,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaynan45&" alt="kaynan45" /></p>
 
-
-https://static.vecteezy.com/system/resources/thumbnails/007/623/233/small/3d-illustration-education-tablet-with-education-icons-on-on-hi-tech-background-education-banner-vector.jpg
