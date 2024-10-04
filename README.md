@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Kaynan</h1>
-<h3 align="center">A passionate developer from Brazil, chasing to work on Europe</h3>
+<h3 align="center">A passionate developer, chasing to work on Europe</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaynan45&label=Profile%20views&color=0e75b6&style=flat" alt="kaynan45" /> </p>
 
-- 🌱 I’m currently learning **JavaScript (fullStack)**
+- 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **lorenzokaynanxavier@gmail.com**
 
