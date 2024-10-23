@@ -5,13 +5,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaynan45&label=Profile%20views&color=0e75b6&style=flat" alt="kaynan45" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Data-structures**
 
 - 📫 How to reach me **lorenzokaynanxavier@gmail.com**
 
 - ⚡ Fun fact **Searching for work at Ireland**
 
 <h3 align="left">Connect with me:</h3>
+<p>https://www.linkedin.com/in/lorenzo-xavier-9317432ba/</p>
 <p align="left">
 </p>
 
